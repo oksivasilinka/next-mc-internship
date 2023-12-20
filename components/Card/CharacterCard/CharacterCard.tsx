@@ -31,6 +31,7 @@ export const CharacterCard = (props: PropsType) => {
   );
 };
 
+
 const ImageBlock = styled(Image)`
   object-fit: cover;
 `;
